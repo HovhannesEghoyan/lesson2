@@ -8,6 +8,7 @@ public class Array {
         month_days[1] = 28;
         month_days[2] = 31;
         System.out.println("petrvary uni "+ month_days[1]+ " or");
+        System.out.println();
 
 
     }
